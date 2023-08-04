@@ -165,7 +165,7 @@ def central_spot(df):
 # =====================================================
 # Carregando o arquivo
 # =====================================================
-df_raw=pd.read_csv(r"C:\Users\kmila\Documents\repos\ftc\dataset\train.csv")
+df_raw=pd.read_csv("dataset\train.csv")
 
 # =====================================================
 # Limpando os dados
