@@ -94,7 +94,7 @@ def top_ten(df,arg):
 # =====================================================
 # Carregando o arquivo
 # =====================================================
-df_raw=pd.read_csv("dataset\train.csv")
+df_raw=pd.read_csv("dataset/train.csv")
 
 # =====================================================
 # Limpando os dados
